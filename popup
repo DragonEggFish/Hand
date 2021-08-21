@@ -1,8 +1,14 @@
-"scratch-render-fonts": "1.0.0-prerelease.20210401210003",
-     "scratch-storage": "1.3.5",
-     "scratch-svg-renderer": "0.2.0-prerelease.20210727023023",
-     "scratch-vm": "0.2.0-prerelease.20210820100332",
-     "scratch-vm": "0.2.0-prerelease.20210821083308",
-     "startaudiocontext": "1.2.1",
-     "style-loader": "^0.23.0",
-     "text-encoding": "0.7.0",
+<div class="modal-content manager-limit-modal modal-content manager-limit-modal" tabindex="-1" role="dialog"><div class="modal-content-close">
+<img alt="close-icon" class="modal-content-close-img" draggable="false" src="/svgs/modal/close-x.svg"></div><div class="modal-title manager-limit-title">
+</div>
+<div class="manager-limit-content"><img src="/svgs/studio/manager-limit-illustration.svg" class="manager-limit-image"><div class="modal-inner-content manager-limit-inner">
+<h2><span>Hand is coming soon.</span></h2>
+<p><span>It's great to see it come!</span></p>
+<p><span>When we're done, it will show a scratch editor instead of a popup.</span></p>
+<div class="manager-limit-button-row"><button class="button">
+<span>Okay</span>
+</button>
+</div>
+</div>
+</div>
+</div>
