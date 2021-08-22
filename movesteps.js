@@ -17,3 +17,10 @@ Blockly.Blocks['motion_movesteps'] = {
     });
   }
 };
+moveSteps (args, util) {
+  const steps = Cast.toNumber(args.STEPS);
+  const radians = MathUtil.degToRad(90 - util.target.direction);
+  const dx = steps * Math.cos(radians);
+  const dy = steps * Math.sin(radians);
+  util.target.setXY(util.target.x + dx, util.target.y + dy);
+}
